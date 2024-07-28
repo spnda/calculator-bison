@@ -9,7 +9,7 @@ make run
 
 The calculator now awaits input and will always output the result on a new line prefixed with `>`. The calculator generally makes use of `BigDecimal` to hold generic decimals, but has to convert to floating point numbers for calculating logiarithms or square roots. Some examples of how to use the calculator can be found below.
 
-Basic arithmetic:
+Basic arithmetic calculation:
 ```
 5 * 5 + 5
 > 30
